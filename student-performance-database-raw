@@ -1,0 +1,61 @@
+student_id	gender	age	study_hours_per_day	attendance_percentage	previous_marks	final_score	parental_education	internet_access	extra_classes	sleep_hours
+S001	Female	16	4.5	92	78	84	Bachelor	Yes	Yes	7.5
+S002	Male	17	2	75	60	63	High School	Yes	No	6
+S003	Female	16	5	95	85	90	Master	Yes	Yes	8
+S004	Male	18	1.5	68	52	55	High School	No	No	5.5
+S005	Female	17	3.5	88	72	76	Bachelor	Yes	No	7
+S006	Male	16	4	90	74	80	Bachelor	Yes	Yes	7.5
+S007	Female	18	2.5	78	65	68	High School	Yes	No	6.5
+S008	Male	17	6	96	88	92	Master	Yes	Yes	8
+S009	Female	16	1	60	45	48	Primary	No	No	5
+S010	Male	18	3	82	70	73	Bachelor	Yes	No	6.5
+S011	Female	17	4.5	91	80	85	Master	Yes	Yes	7
+S012	Male	16	2	72	58	61	High School	No	No	6
+S013	Female	18	5.5	94	86	89	Bachelor	Yes	Yes	7.5
+S014	Male	17	3	80	67	70	High School	Yes	No	6.5
+S015	Female	16	6.5	98	91	95	Master	Yes	Yes	8.5
+S016	Male	18	1.5	64	50	52	Primary	No	No	5.5
+S017	Female	17	3.5	85	73	77	Bachelor	Yes	Yes	7
+S018	Male	16	4	89	76	81	Bachelor	Yes	No	7.5
+S019	Female	18	2	70	57	59	High School	No	No	6
+S020	Male	17	5	93	82	87	Master	Yes	Yes	7.5
+S021	Female	16	3	84	69	72	Bachelor	Yes	No	7
+S022	Male	18	2.5	77	63	66	High School	Yes	No	6.5
+S023	Female	17	5.5	96	87	91	Master	Yes	Yes	8
+S024	Male	16	1	58	42	45	Primary	No	No	5
+S025	Female	18	4	90	77	82	Bachelor	Yes	Yes	7.5
+S026	Male	17	3.5	86	71	75	Bachelor	Yes	No	7
+S027	Female	16	2	74	59	62	High School	Yes	No	6
+S028	Male	18	6	97	89	93	Master	Yes	Yes	8
+S029	Female	17	1.5	66	49	53	Primary	No	No	5.5
+S030	Male	16	4.5	92	79	84	Bachelor	Yes	Yes	7.5
+S031	Female	18	3	83	68	71	High School	Yes	No	6.5
+S032	Male	17	5	94	84	88	Master	Yes	Yes	8
+S033	Female	16	2.5	79	64	67	Bachelor	Yes	No	6.5
+S034	Male	18	1	62	46	49	Primary	No	No	5
+S035	Female	17	4	88	75	79	Bachelor	Yes	Yes	7
+S036	Male	16	3.5	87	72	76	High School	Yes	No	7
+S037	Female	18	6	99	92	96	Master	Yes	Yes	8.5
+S038	Male	17	2	73	56	60	High School	No	No	6
+S039	Female	16	4.5	91	81	85	Bachelor	Yes	Yes	7.5
+S040	Male	18	3	81	66	69	Bachelor	Yes	No	6.5
+S041	Female	17	5	95	83	88	Master	Yes	Yes	8
+S042	Male	16	1.5	67	51	54	Primary	No	No	5.5
+S043	Female	18	3.5	86	74	78	Bachelor	Yes	No	7
+S044	Male	17	4	90	78	82	Bachelor	Yes	Yes	7.5
+S045	Female	16	2.5	76	62	65	High School	Yes	No	6.5
+S046	Male	18	5.5	96	87	91	Master	Yes	Yes	8
+S047	Female	17	1	59	44	47	Primary	No	No	5
+S048	Male	16	3	82	69	72	High School	Yes	No	6.5
+S049	Female	18	4.5	93	80	86	Bachelor	Yes	Yes	7.5
+S050	Male	17	2	71	55	58	High School	No	No	6
+S051	Female	16	5.5	97	90	94	Master	Yes	Yes	8
+S052	Male	18	3.5	85	70	74	Bachelor	Yes	No	7
+S053	Female	17	4	89	76	81	Bachelor	Yes	Yes	7.5
+S054	Male	16	2.5	78	61	64	High School	Yes	No	6.5
+S055	Female	18	6.5	99	93	97	Master	Yes	Yes	8.5
+S056	Male	17	1.5	65	48	51	Primary	No	No	5.5
+S057	Female	16	3	84	67	71	Bachelor	Yes	No	7
+S058	Male	18	4.5	91	79	83	Bachelor	Yes	Yes	7.5
+S059	Female	17	2	72	57	60	High School	No	No	6
+S060	Male	16	5	94	85	89	Master	Yes	Yes	8
